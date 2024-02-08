@@ -1,8 +1,8 @@
 {
   "chainId": "arusluk_1613976-1",
-  "chainName": "aruslu",
-  "rpc": "https://froopyland.dymension.xyz/12/arusluk_1613976-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/12/arusluk_1613976-1/rest",
+  "chainName": "arusluk_1613976-1",
+  "rpc": "http://109.123.229.180:26657",
+  "rest": "http://109.123.229.180:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,12 +24,12 @@
   },
   "evm": {
     "chainId": "0x18a098",
-    "rpc": "https://froopyland.dymension.xyz/12/arusluk_1613976-1/evmrpc"
+    "rpc": "http://109.123.229.180:8545"
   },
-
+  "type": "RollApp",
   "da": "Avail",
-  "description": "forever modüller",
-  "analytics": true,
+  "description": "",
   "goldberg": true,
-  "availAddress": "5DPm6B3km2NRqSeCbmiuk71kqX54LSkoTpsbKcS1VCpkH1md"
+  "availAddress": "5DPm6B3km2NRqSeCbmiuk71kqX54LSkoTpsbKcS1VCpkH1md",
+  "analytics": true
 }
